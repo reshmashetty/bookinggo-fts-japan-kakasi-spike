@@ -46,3 +46,14 @@ Example:
     kokusaizaimuhoukokukijun
 
 Original documentation (in Japanese): http://nicolas-raoul.github.com/kakasi-java
+
+<h3> Clone this repository and run on Intellij as below </h3>
+
+1. To run jar using system input and convert all chars to Hiragana
+![Alt text](RunJar_SysInput_AnythingToHiragana.png?raw=true "RunJar_SysInput_AnythingToHiragana")
+
+2. To run jar using file input and convert all chars to Hiragana
+![Alt text](RunJar_FileInput_AnythingToHiragana.png?raw=true "RunJar_FileInput_AnythingToHiragana")
+
+3. To run jar using file input and convert all chars to Romaji/Latin/English
+![Alt text](RunJar_FileInput_AnythingToRomajiLatin.png?raw=true "RunJar_FileInput_AnythingToRomajiLatin")
